@@ -8,7 +8,7 @@
 2. 官方论文：[arXiv:2602.09021](https://arxiv.org/abs/2602.09021)
 3. 指定飞书页：[wiki/Y2qrwsfYpigl36kpzNmcxXVznug](https://j17tak1mfe1.feishu.cn/wiki/Y2qrwsfYpigl36kpzNmcxXVznug)（当前读不到正文，见 [docs/feishu.md](docs/feishu.md)）
 
-本仓库不收录数据集和 checkpoint。官方代码请直接看上游。本地 PDF 在 [papers/chi0-kai0-arXiv-2602.09021v3.pdf](papers/chi0-kai0-arXiv-2602.09021v3.pdf)。
+官方源码完整快照在 [`kai0/`](kai0/)，对应上游提交 `9d93078`。本仓库不收录数据集和 checkpoint。本地 PDF 在 [papers/chi0-kai0-arXiv-2602.09021v3.pdf](papers/chi0-kai0-arXiv-2602.09021v3.pdf)。
 
 ## 一句话
 
